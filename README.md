@@ -5,6 +5,5 @@
 
 ![Hyvina GitHub stats](https://github-readme-stats.vercel.app/api?username=HyvinaLino&show_icons=true&theme=radical)
 
-## Tecnologias que mais utilizo
-
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyvinaLino&layout=donut)](https://github.com/HyvinaLino/github-readme-stats)
+## Tecnologias que mais utilizo!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyvinaLIno&layout=compact)
